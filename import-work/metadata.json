@@ -1,0 +1,56 @@
+{
+  "url": "https://www.xcelenergy.com/Company?appInstanceName=xe&stateSelected=true",
+  "timestamp": "2026-07-15T13:00:37.694Z",
+  "paths": {
+    "documentPath": "/company",
+    "htmlFilePath": "/company.plain.html",
+    "mdFilePath": "/company.md",
+    "dirPath": "",
+    "filename": "company"
+  },
+  "screenshot": "C:\\Users\\mira.joy.g.abcede\\OneDrive - Accenture\\workspace\\new-eds-site-test\\import-work\\screenshot.png",
+  "html": {
+    "filePath": "C:\\Users\\mira.joy.g.abcede\\OneDrive - Accenture\\workspace\\new-eds-site-test\\import-work\\cleaned.html",
+    "size": 51563
+  },
+  "metadata": {
+    "title": "Company | Xcel Energy",
+    "viewport": "width=device-width, initial-scale=1",
+    "apple-itunes-app": "app-id=1232821763",
+    "msvalidate.01": "4EF22CFFC04CECD3C3A23FEF72DCD781",
+    "google-play-app": "app-id=com.kubra.xcel",
+    "msapplication-TileImage": "/staticfiles/xe-responsive/assets/images/XcelEnergyLogo_100x100.jpg",
+    "description": "We pride ourselves on being your trusted energy provider. Learn more about our company, including our leadership, career opportunities, and investor relations.",
+    "keywords": "Xcel, energy, customer, account, leadership, investor"
+  },
+  "images": {
+    "count": 17,
+    "mapping": {
+      "https://www.xcelenergy.com/staticfiles/xe-responsive/assets/images/Three%20Tile/Energy-Portfolio-NG-3Tile-Loveland1-768x420.jpg": "./images/9f5ae17d2c2bac291064ae724cee9cd2.jpg",
+      "https://www.xcelenergy.com/staticfiles/xe-responsive/assets/images/Three%20Tile/Cherokee_768x420_2_K40per.jpg": "./images/28f0101645c96ff718afda72877739c2.jpg",
+      "https://www.xcelenergy.com/staticfiles/xe-responsive/assets/images/Three%20Tile/Whole-Building-New-Construction-3Tile-768x420.jpg": "./images/958ffd5e9df11dd82efe5e3936c907eb.jpg",
+      "https://www.xcelenergy.com/staticfiles/xe-responsive/assets/images/ui-icons/energy_saving_tip_GRAY@2x.png": "./images/e1b7c447cf99f69c55151d42e0550795.png",
+      "https://www.xcelenergy.com/staticfiles/xe-responsive/assets/images/ui-icons/contact_GRAY@2x.png": "./images/450d78885db117e0096c8b4d0d18902a.png",
+      "https://www.xcelenergy.com/staticfiles/xe-responsive/assets/images/social/li.png": "./images/43f3108d565f6b1191216fd957a105bd.png",
+      "https://www.xcelenergy.com/staticfiles/xe-responsive/assets/images/Condensed%20Hero/Energy-Wind-2-Hero-1440x300.jpg": "./images/6ae3c165c57b13a742b5af9f8c77d763.jpg",
+      "https://www.xcelenergy.com/staticfiles/xe-responsive/assets/images/social/yt.png": "./images/8795d222c71c891f17c10d761f0e5ae9.png",
+      "https://www.xcelenergy.com/staticfiles/xe-responsive/assets/images/social/in.png": "./images/d09f82c9a4a4af193cd7bd16b3c020de.png",
+      "https://www.xcelenergy.com/staticfiles/xe-responsive/assets/images/logo.png": "./images/dda1c5d4cf0e020dc22b51e82f155553.png",
+      "https://www.xcelenergy.com/staticfiles/xe-responsive/assets/images/social/fb.png": "./images/6a4bc8db4d2741c5677e800d692dc8a3.png",
+      "https://www.xcelenergy.com/staticfiles/xe-responsive/assets/images/social/tw.png": "./images/37feb2546ed2de288ae6900cd18b82e0.png",
+      "https://pixel.quantserve.com/pixel;r=1134249277;event=rule;labels=_fp.event.Company;rf=0;a=p-a8UBQsK6ymyyg;url=https%3A%2F%2Fwww.xcelenergy.com%2FCompany%3FappInstanceName%3Dxe%26stateSelected%3Dtrue;ns=0;ce=1;qjs=1;qv=b414f28e-20260609162752;ref=;dst=0;et=1784120426256;tzo=-480;ogl=;d=xcelenergy.com;uht=2;fpan=1;fpa=P1-fbe28dac-cf18-42ff-acc5-45c88bb75e51;pbc=;_ses=b6520bd2-f5ae-471c-ab0d-ff1d383cc4bf;_seg=0;_ss=1;_gacid=835286983.1784120425;_gam=c;gdpr=0;mdl=": "./images/911399e316e59b37ad306a2a926ff550.png",
+      "https://i.ytimg.com/vi_webp/fqqrlWlAQ0U/sddefault.webp": "./images/821b9d9ced9ef9134f96d52ae5736ab0.png",
+      "https://yt3.ggpht.com/ytc/AIdro_n4SgS2g0UUyOxiSZPXIejikZzO1elqvIU_HMPE5LnQj20=s68-c-k-c0x00ffffff-no-rj": "./images/b0947800d8b279431d33205cf1c58301.jpg",
+      "https://www.mailcontrol.com/http-resources/notification-pages/icons60/blocked.png": "./images/c5ea6c0e87377dad6bb504e214845ab0.png",
+      "https://www.mailcontrol.com/http-resources/notification-pages/triton-logo-blue.png": "./images/de07623d83734539b5d24490b5c4f9ea.png"
+    },
+    "stats": {
+      "total": 21,
+      "converted": 2,
+      "skipped": 23,
+      "failed": 2,
+      "tooLarge": 0,
+      "limitReached": 0
+    }
+  }
+}
